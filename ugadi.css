@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rosybrown;
+}
+ .img {
+    background-image:url("ugadi1.jpg");
+    background-position: center;
+    background-color: rgb(216, 35, 35);
+    height: 1000vh;
+
+}
+ .image-container {
+    display: flex;
+    justify-content: center;
+align-items: center;
+flex-direction: column;
+background-color: rosybrown;
+}
+    .p {
+
+    font-size: large;
+}
